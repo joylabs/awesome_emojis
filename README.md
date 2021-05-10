@@ -1,4 +1,6 @@
-# Emojis 
+# AwesomeEmojis 
+
+This package is based on the source code of [emojis](https://pub.dev/packages/emojis) and is an attempt to made some improvements, mainly migrate to null safety.
 
 🔥 Emoji for Dart 🔥 Over 3300 Emojis <br> 
 This 📦 contain all 🆕 [Unicode 13 Emojis](https://unicode.org/emoji/charts) (2️0️2️0️) 
@@ -70,17 +72,12 @@ print(moneySubgroupEmojis);
 ```
 
 ## 🚀 Features
-- [x] All Present unicode emojis 💯
-- [x] Get Emojis by Name, Category, Keyword & ...
-- [x] Modify Emoji with 🆕 skin color ( 🏻 🏼 🏽 🏾 🏿 )
-- [x] Stabilize Emoji (No Skin color, No Gender)
-- [X] Assemble Emojis (👩 + ❤ + 👩  = 👩‍❤️‍👩 )
-- [x] Disassemble Emojis (👨‍🔧 = 🔧 + 🧑)
-- [x] Emoji Regex Pattern
+- [ ] Migrate to null safety
+- [ ] Add unicode 13.1 emojis
 - [ ] Emojize and Demojize text
 - [ ] Find emojis in text
 - [ ] Replace emojis in text
 
 ## 📄 License
 * [BDS 3 License](https://opensource.org/licenses/BSD-3-Clause)
-* Copyright 2020 © Naji
+* Copyright 2021 © Davi Resio
