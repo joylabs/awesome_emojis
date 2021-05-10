@@ -1,7 +1,6 @@
 name: awesome_emojis
 description: Awesome Emojis for Dart!
 version: 0.1.0
-author: Davi Resio <daviresio@gmail.com>
 homepage:  https://github.com/daviresio/awesome_emojis
 
 environment:
