@@ -1,5 +1,5 @@
-import 'package:emojis/emojis.dart';
-import 'package:emojis/emoji.dart';
+import 'package:awesome_emojis/emoji.dart';
+import 'package:awesome_emojis/emojis.dart';
 
 main() {
   print('I ${Emojis.greenHeart} ${Emojis.directHit}'); // I 💚 🎯
